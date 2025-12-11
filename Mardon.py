@@ -1,0 +1,12 @@
+print("dars tugadi")
+
+
+
+
+
+
+
+
+
+
+
